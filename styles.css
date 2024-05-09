@@ -1,0 +1,66 @@
+ul {
+    list-style-type: none;
+    float:right;
+    color: var(--colorBordo);
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.a{
+    text-decoration: none;
+    color: var(--colorBlanco);
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img {
+    width: 500px;
+    height: 250px;
+    float: right;
+    border: solid var(--colorBlanco);
+    
+}
+
+.jaja {
+    width: 50000000px;
+    height: 150px;
+    float: top;
+    
+}
+
+
+
+
+.p {
+    color: var(--colorBordo);
+    font-size: 55px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#z {
+    color: var(--colorBlanco);  
+    font-size: 35px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: var(--colorBordo);
+}
+
+
+
+body{
+    background-image: url(https://sportshub.cbsistatic.com/i/r/2024/04/14/1bb0be30-03b1-406d-9891-f372c3d7216b/thumbnail/1200x675/81fb30497f8c77d4ac461bdc0dee8b6d/max-holloway-gaethje-punch.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+:root {
+    --colorBlanco: white;
+    --colorBordo: rgb(112, 0, 0);
+}
+
+
+
